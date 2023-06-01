@@ -477,4 +477,8 @@ section{
     filter: grayscale(50%) contrast(80%) brightness(1.6);
     mix-blend-mode: normal;
   }
-  .DIV {text-align: center;}
+  .DIV {display: flex;
+    justify-content: center;
+    width: 100vw;
+color: red;
+height: 10em;}
