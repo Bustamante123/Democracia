@@ -487,3 +487,10 @@ ul li a {text-decoration: none;
   font-family: 'Josefin Sans', sans-serif;
   font-family: 'PT Serif', serif;}
   .wrapper {background-color:lavender;}
+  .contenedor {display: flex; background-color: lavender;
+  justify-content: space-between;}
+  .contenedor .ImgGolpe img {width: 25em;
+  height: 25em;
+background-color: lavender;}
+section {background-color: lavender;}
+.TextoGolpe {display: flex; justify-content: center;}
